@@ -1,5 +1,4 @@
-crewai
+crewai==0.28.7
 langchain_google_genai
-load_dotenv
-
-crewai_tools
+python-dotenv
+streamlit
